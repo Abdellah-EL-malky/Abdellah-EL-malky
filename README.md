@@ -19,7 +19,21 @@ Driven by an insatiable curiosity and a commitment to continuous learning, I am 
 
 ## Skills & Technologies
 
-php,mysql,laravel,docker,html,css,git,github,bootstrap,tailwind,graphql,react,postgres,postman,js
+![PHP Logo](https://icones8.fr/icons/set/php)
+![MySQL Logo](https://icones8.fr/icons/set/mysql)
+![Laravel Logo](https://icones8.fr/icons/set/laravel)
+![Docker Logo](https://icones8.fr/icons/set/docker)
+![HTML Logo](https://icones8.fr/icons/set/html)
+![CSS Logo](https://icones8.fr/icons/set/css)
+![Git Logo](https://icones8.fr/icons/set/git)
+![GitHub Logo](https://icones8.fr/icons/set/github)
+![Bootstrap Logo](https://icones8.fr/icons/set/bootstrap)
+![Tailwind Logo](https://icones8.fr/icons/set/tailwind)
+![GraphQL Logo](https://icones8.fr/icons/set/graphql)
+![React Logo](https://icones8.fr/icons/set/react)
+![PostgreSQL Logo](https://icones8.fr/icons/set/postgresql)
+![Postman Logo](https://icones8.fr/icons/set/postman)
+![JavaScript Logo](https://icones8.fr/icons/set/javascript)
 
 ## GitHub Stats
 
