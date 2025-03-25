@@ -36,7 +36,7 @@ php,mysql,laravel,docker,html,css,git,github,bootstrap,tailwind,graphql,react,po
 
 ## Connect with Me
 
-{https://www.linkedin.com/in/abdellah-el-malky-3515761b5/}
+[LinkedIn](https://www.linkedin.com/in/abdellah-el-malky-3515761b5/)
 
 ## ASCII Art
 
