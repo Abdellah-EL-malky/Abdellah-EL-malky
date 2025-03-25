@@ -7,12 +7,19 @@ I'm Abdellah, a passionate developer with a knack for building innovative soluti
 A passionate web development student in my first year at YouCode, I am committed to crafting innovative and efficient digital solutions. My technical expertise spans a diverse range of technologies:
 
 - Front-End: Proficient in HTML,Javascript, CSS, with specialized skills in Tailwind and React
+
 - Back-End: Developing robust applications using PHP and Laravel framework
+
 - Database Management: Experienced in SQL and PostgreSQL
+
 - Design & Prototyping: Skilled in Figma for UI/UX design
+
 - API Development & Testing: Proficient with Postman
+
 - System Design: Experienced in UML conception
+
 - Version Control: Expertise in Git and GitHub workflows
+
 - DevOps: Leveraging Docker for containerization
 
 Driven by an insatiable curiosity and a commitment to continuous learning, I am eager to apply my skills to dynamic, forward-thinking projects where technological innovation meets creative problem-solving.
@@ -27,13 +34,16 @@ Driven by an insatiable curiosity and a commitment to continuous learning, I am 
   <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40" height="40"/>
-  <img src="https://img.icons8.com/glyph-neue/64/000000/github.png" alt="GitHub" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" width="40" height="40"/>
+  <img src="https://img.icons8.com/glyph-neue/64/000000/github.png" alt="GitHub" width="40" height="40">
+  <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" width="40"height="40">
   <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="Tailwind CSS" width="40" height="40"/>
   <img src="https://img.icons8.com/officel/40/000000/react.png" alt="React" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://img.icons8.com/dusk/64/000000/postman-api.png" alt="Postman" width="40" height="40"/>
+  <img src="https://img.icons8.com/dusk/64/000000/postman-api.png" alt="Postman" width="40" height="40">
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/trello.png" alt="Trello" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/jira.png" alt="Jira" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/draw-io.png" alt="Draw.io" width="40" height="40"/>
 </p>
 
 
