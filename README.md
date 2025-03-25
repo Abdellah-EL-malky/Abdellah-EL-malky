@@ -54,4 +54,14 @@ Driven by an insatiable curiosity and a commitment to continuous learning, I am 
 
 ## ASCII Art
 
-____  _   _  ____  
+    /\___/\
+   (  o o  )
+   /   ∆   \
+  (  =^=^=  )
+   \       /
+    \ --- /
+     |_|_|
+    /     \
+   |  WEB  |
+   |  DEV  |
+    \_____/
