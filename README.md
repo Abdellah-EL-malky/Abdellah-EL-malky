@@ -56,4 +56,4 @@ Driven by an insatiable curiosity and a commitment to continuous learning, I am 
 
 ## Mon Voyage de Développeur 🚀
 
-![Rocket Flight](https://github.com/Abdellah-EL-malky/fus-e.git)
+![Rocket Flight](https://raw.githubusercontent.com/Abdellah-EL-malky/fus-e/main/fus-e.gif)
