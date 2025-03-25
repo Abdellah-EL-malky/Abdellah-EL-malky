@@ -30,7 +30,6 @@ Driven by an insatiable curiosity and a commitment to continuous learning, I am 
   <img src="https://img.icons8.com/glyph-neue/64/000000/github.png" alt="GitHub" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="Tailwind CSS" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/graphql.png" alt="GraphQL" width="40" height="40"/>
   <img src="https://img.icons8.com/officel/40/000000/react.png" alt="React" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL" width="40" height="40"/>
   <img src="https://img.icons8.com/dusk/64/000000/postman-api.png" alt="Postman" width="40" height="40"/>
@@ -55,17 +54,6 @@ Driven by an insatiable curiosity and a commitment to continuous learning, I am 
 
 [LinkedIn](https://www.linkedin.com/in/abdellah-el-malky-3515761b5/)
 
-## ASCII Art
- ```
-    /\___/\
-   (  o o  )
-   /   ∆   \
-  (  =^=^=  )
-   \       /
-    \ --- /
-     |_|_|
-    /     \
-   |  WEB  |
-   |  DEV  |
-    \_____/
-```
+## Mon Voyage de Développeur 🚀
+
+![Rocket Flight](https://raw.githubusercontent.com/Abdellah-EL-malky/Abdellah-EL-malky/main/rocket-flight.gif)
