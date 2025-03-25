@@ -19,21 +19,22 @@ Driven by an insatiable curiosity and a commitment to continuous learning, I am 
 
 ## Skills & Technologies
 
-![PHP Logo](https://icones8.fr/icons/set/php)
-![MySQL Logo](https://icones8.fr/icons/set/mysql)
-![Laravel Logo](https://icones8.fr/icons/set/laravel)
-![Docker Logo](https://icones8.fr/icons/set/docker)
-![HTML Logo](https://icones8.fr/icons/set/html)
-![CSS Logo](https://icones8.fr/icons/set/css)
-![Git Logo](https://icones8.fr/icons/set/git)
-![GitHub Logo](https://icones8.fr/icons/set/github)
-![Bootstrap Logo](https://icones8.fr/icons/set/bootstrap)
-![Tailwind Logo](https://icones8.fr/icons/set/tailwind)
-![GraphQL Logo](https://icones8.fr/icons/set/graphql)
-![React Logo](https://icones8.fr/icons/set/react)
-![PostgreSQL Logo](https://icones8.fr/icons/set/postgresql)
-![Postman Logo](https://icones8.fr/icons/set/postman)
-![JavaScript Logo](https://icones8.fr/icons/set/javascript)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 
 ## GitHub Stats
 
@@ -53,7 +54,7 @@ Driven by an insatiable curiosity and a commitment to continuous learning, I am 
 [LinkedIn](https://www.linkedin.com/in/abdellah-el-malky-3515761b5/)
 
 ## ASCII Art
-
+ ```
     /\___/\
    (  o o  )
    /   ∆   \
@@ -65,3 +66,4 @@ Driven by an insatiable curiosity and a commitment to continuous learning, I am 
    |  WEB  |
    |  DEV  |
     \_____/
+```
