@@ -45,7 +45,7 @@ Driven by an insatiable curiosity and a commitment to continuous learning, I am 
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/trello.png" alt="Trello" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/jira.png" alt="Jira" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/jgraph/drawio/master/image/drawio-logos/drawio_logo.svg" alt="Draw.io" width="40" height="40"/>
+  <img src="assets/téléchargement.png" alt="Draw.io" width="40" height="40"/>
 </p>
 
 
