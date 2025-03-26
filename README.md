@@ -61,5 +61,5 @@ Driven by an insatiable curiosity and a commitment to continuous learning, I am 
 ## Mon Voyage de Développeur 🚀
 
 ```markdown
-![Code Scrolling](/assets/200 (1).webp)
+![Code Scrolling](assets/200 (1).webp)
 ```
