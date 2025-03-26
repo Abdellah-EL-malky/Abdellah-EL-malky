@@ -60,5 +60,5 @@ Driven by an insatiable curiosity and a commitment to continuous learning, I am 
 
 ## Mon Voyage de Développeur 🚀
 
-![Code Scrolling](assets/code.webp)
+<img src="assets/code.webp" width="100%" height="auto" alt="Code scrolling" style="max-height: 300px; object-fit: cover;">
 
