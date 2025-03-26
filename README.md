@@ -66,4 +66,4 @@ Driven by an insatiable curiosity and a commitment to continuous learning, I am 
 
 ## Mon Voyage de Développeur 🚀
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjU0ZjJmNmQ0MmU5NmQ0YzRiNTU4Yzk1NmEzNGQ3MjdjZGZkNWIwYSZlcD12anZlZGl0b3JfZ2lmJmN0PWc/iFmPz8rRXPyGILMFEF/giphy.gif" width="200" height="200" alt="Gif animé">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjU0ZjJmNmQ0MmU5NmQ0YzRiNTU4Yzk1NmEzNGQ3MjdjZGZkNWIwYSZlcD12anZlZGl0b3JfZ2lmJmN0PWc/iFmPz8rRXPyGILMFEF/giphy.gif" width="100%" height="200" alt="Code scrolling">
