@@ -1,4 +1,4 @@
-<img src="assets/code.webp" width="100%" height="auto" alt="Code scrolling" style="max-height: 300px; object-fit: cover;">
+<img src="assets/code.webp" width="100%" height="250" alt="Code scrolling" style="max-height: 300px; object-fit: cover;">
 
 ## Hi there! 👋
 
