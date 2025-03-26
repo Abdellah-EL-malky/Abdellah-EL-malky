@@ -1,3 +1,5 @@
+<img src="assets/code.webp" width="100%" height="auto" alt="Code scrolling" style="max-height: 300px; object-fit: cover;">
+
 ## Hi there! 👋
 
 I'm Abdellah, a passionate developer with a knack for building innovative solutions. I'm always eager to learn and explore new technologies while enhancing my skills.
@@ -57,8 +59,3 @@ Driven by an insatiable curiosity and a commitment to continuous learning, I am 
 ## Connect with Me
 
 [LinkedIn](https://www.linkedin.com/in/abdellah-el-malky-3515761b5/)
-
-## Mon Voyage de Développeur 🚀
-
-<img src="assets/code.webp" width="100%" height="auto" alt="Code scrolling" style="max-height: 300px; object-fit: cover;">
-
