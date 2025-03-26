@@ -54,16 +54,12 @@ Driven by an insatiable curiosity and a commitment to continuous learning, I am 
 🔹 **Following**: 11  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdellah-EL-malky&show_icons=true&theme=radical)
 
-## Recent Activity
-
-- Pushed updates to [SmartShelf](https://github.com/Abdellah-EL-malky/SmartShelf) on March 24, 2025.
-- Created new branch for [TalentPool-API](https://github.com/Abdellah-EL-malky/TalentPool-API) on March 19, 2025.
-- Pushed changes to [GrandTaxiGo](https://github.com/Abdellah-EL-malky/GrandTaxiGo) on March 4, 2025.
-
 ## Connect with Me
 
 [LinkedIn](https://www.linkedin.com/in/abdellah-el-malky-3515761b5/)
 
 ## Mon Voyage de Développeur 🚀
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjU0ZjJmNmQ0MmU5NmQ0YzRiNTU4Yzk1NmEzNGQ3MjdjZGZkNWIwYSZlcD12anZlZGl0b3JfZ2lmJmN0PWc/iFmPz8rRXPyGILMFEF/giphy.gif" width="100%" height="200" alt="Code scrolling">
+```markdown
+![Code Scrolling](/assets/200 (1).webp)
+```
