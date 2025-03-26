@@ -66,4 +66,4 @@ Driven by an insatiable curiosity and a commitment to continuous learning, I am 
 
 ## Mon Voyage de Développeur 🚀
 
-<img src="https://giphy.com/gifs/afinitiai-customer-afiniti-pair-better-bYOu4G8Ctz3UkuHVQe" width="400" height="300" alt="Description du GIF">
+<img src="https://media.giphy.com/media/votSCld92VqTvkFd5h/giphy.gif" width="200" height="200" alt="Gif animé">
