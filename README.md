@@ -1,60 +1,92 @@
-<img src="assets/code.webp" width="100%" height="250" alt="Code scrolling" style="max-height: 300px; object-fit: cover;">
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Abdellah%20El%20Malky&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Java%20•%20Spring%20Boot%20•%20React&descAlignY=58&descSize=16" width="100%"/>
+</div>
 
-## Hi there! 👋
+## 👋 About Me
 
-I'm Abdellah, a passionate developer with a knack for building innovative solutions. I'm always eager to learn and explore new technologies while enhancing my skills.
+I'm a **Full-Stack Developer** specializing in **Java / Spring Boot** backends and **React** frontends, with a growing interest in **AI integration** (RAG, LangChain). Based in Morocco 🇲🇦, available for **remote opportunities**.
 
-## Skills & Technologies
+- 🔭 Currently finishing my Full-Stack formation at **YouCode (UM6P × Simplon)**
+- 🌍 Open to **remote freelance** and **long-term contracts**
+- 💬 Fluent in **Arabic**, **French**, and **English**
+- ⚡ I build fast — AI-assisted development is part of my workflow
 
-<p align="left">
-  <img src="https://img.icons8.com/color/48/000000/php.png" alt="PHP" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="40" height="40"/>
-  <img src="https://img.icons8.com/fluency/48/000000/laravel.png" alt="Laravel" width="40" height="40"/>
-  <img src="https://img.icons8.com/fluency/48/000000/docker.png" alt="Docker" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40" height="40"/>
-  <img src="https://img.icons8.com/glyph-neue/64/000000/github.png" alt="GitHub" width="40" height="40">
-  <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" width="40"height="40">
-  <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="Tailwind CSS" width="40" height="40"/>
-  <img src="https://img.icons8.com/officel/40/000000/react.png" alt="React" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://img.icons8.com/dusk/64/000000/postman-api.png" alt="Postman" width="40" height="40">
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/trello.png" alt="Trello" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/jira.png" alt="Jira" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma" width="40" height="40"/>
-  <img src="assets/téléchargement.png" alt="Draw.io" width="40" height="40"/>
+---
+
+## 🛠️ Tech Stack
+
+### Backend
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white"/>
 </p>
 
-## About Me
+### Frontend
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+</p>
 
-A passionate web development student in my first year at YouCode, I am committed to crafting innovative and efficient digital solutions. My technical expertise spans a diverse range of technologies:
+### Database & DevOps
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
+</p>
 
-- Front-End: Proficient in HTML,Javascript, CSS, with specialized skills in Tailwind and React
+### AI & Data
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+</p>
 
-- Back-End: Developing robust applications using PHP and Laravel framework
+---
 
-- Database Management: Experienced in SQL and PostgreSQL
+## 🚀 Featured Projects
 
-- Design & Prototyping: Skilled in Figma for UI/UX design
+### 🏢 [Supplier Management System](https://github.com/Abdellah-EL-malky)
+> Spring Boot • JWT • REST API • React
+Full-stack application for supplier management with role-based access control, secure JWT authentication, and advanced CORS configuration.
 
-- API Development & Testing: Proficient with Postman
+### 🏥 [Medical Tele-Expertise Platform](https://github.com/Abdellah-EL-malky)
+> Jakarta EE • Servlets • JSP • MVC
+Online medical consultation management system with patient records and appointment scheduling.
 
-- System Design: Experienced in UML conception
+### 🤖 [RAG Documentation Assistant](https://github.com/Abdellah-EL-malky)
+> Python • LangChain • OpenAI • FAISS
+Intelligent chatbot using Retrieval-Augmented Generation to answer questions on technical documentation with semantic vector search.
 
-- Version Control: Expertise in Git and GitHub workflows
+---
 
-- DevOps: Leveraging Docker for containerization
+## 📊 GitHub Stats
 
-Driven by an insatiable curiosity and a commitment to continuous learning, I am eager to apply my skills to dynamic, forward-thinking projects where technological innovation meets creative problem-solving.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdellah-EL-malky&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdellah-EL-malky&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</div>
 
-## GitHub Stats
+---
 
-🔹 **Public Repositories**: 24  
-🔹 **Followers**: 12  
-🔹 **Following**: 11  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdellah-EL-malky&show_icons=true&theme=radical)
+## 📫 Let's Connect
 
-## Connect with Me
+<p>
+  <a href="https://www.linkedin.com/in/abdellah-el-malky-3515761b5/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:abdel.elmalky@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
-[LinkedIn](https://www.linkedin.com/in/abdellah-el-malky-3515761b5/)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer"/>
+</div>
