@@ -2,18 +2,18 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Abdellah%20El%20Malky&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Java%20•%20Spring%20Boot%20•%20React&descAlignY=58&descSize=16" width="100%"/>
 </div>
 
-## 👋 About Me
+## About Me
 
 I'm a **Full-Stack Developer** specializing in **Java / Spring Boot** backends and **React** frontends, with a growing interest in **AI integration** (RAG, LangChain). Based in Morocco 🇲🇦, available for **remote opportunities**.
 
-- 🔭 Currently finishing my Full-Stack formation at **YouCode (UM6P × Simplon)**
-- 🌍 Open to **remote freelance** and **long-term contracts**
-- 💬 Fluent in **Arabic**, **French**, and **English**
-- ⚡ I build fast — AI-assisted development is part of my workflow
+- Currently finishing my Full-Stack formation at **YouCode (UM6P × Simplon)**
+- Open to **remote freelance** and **long-term contracts**
+- Fluent in **Arabic**, **French**, and **English**
+- I build fast — AI-assisted development is part of my workflow
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Backend
 <p>
@@ -53,30 +53,21 @@ I'm a **Full-Stack Developer** specializing in **Java / Spring Boot** backends a
 
 ## 🚀 Featured Projects
 
-### 🏢 [Supplier Management System](https://github.com/Abdellah-EL-malky)
+### Supplier Management System
 > Spring Boot • JWT • REST API • React
 Full-stack application for supplier management with role-based access control, secure JWT authentication, and advanced CORS configuration.
 
-### 🏥 [Medical Tele-Expertise Platform](https://github.com/Abdellah-EL-malky)
+### Medical Tele-Expertise Platform
 > Jakarta EE • Servlets • JSP • MVC
 Online medical consultation management system with patient records and appointment scheduling.
 
-### 🤖 [RAG Documentation Assistant](https://github.com/Abdellah-EL-malky)
+### RAG Documentation Assistant
 > Python • LangChain • OpenAI • FAISS
 Intelligent chatbot using Retrieval-Augmented Generation to answer questions on technical documentation with semantic vector search.
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdellah-EL-malky&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdellah-EL-malky&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</div>
-
----
-
-## 📫 Let's Connect
+## Let's Connect
 
 <p>
   <a href="https://www.linkedin.com/in/abdellah-el-malky-3515761b5/">
