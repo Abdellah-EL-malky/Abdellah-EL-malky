@@ -51,7 +51,7 @@ I'm a **Full-Stack Developer** specializing in **Java / Spring Boot** backends a
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### Supplier Management System
 > Spring Boot • JWT • REST API • React
